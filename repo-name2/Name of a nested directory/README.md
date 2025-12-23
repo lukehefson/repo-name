@@ -1,4 +1,4 @@
-# Headings — this is H1
+# Nested dir — this is H1
 
 Body text.
 

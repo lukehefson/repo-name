@@ -1,4 +1,4 @@
-# Headings — this is H1
+# Copy of the root — this is H1
 
 Body text.
 
